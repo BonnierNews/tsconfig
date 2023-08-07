@@ -1,0 +1,21 @@
+{
+  "name": "@BonnierNews/tsconfig",
+  "version": "0.0.1",
+  "description": "Shared TypeScript config for Bonnier News",
+  "license": "MIT",
+  "repository": "BonnierNews/tsconfig",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ]
+}
