@@ -1,4 +1,4 @@
-# @BonnierNews/tsconfig
+# @bonniernews/tsconfig
 
 Shared tsconfig for Bonnier News projects.
 
