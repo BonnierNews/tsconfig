@@ -1,6 +1,6 @@
 {
   "name": "@bonniernews/tsconfig",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shared TypeScript config for Bonnier News",
   "license": "MIT",
   "repository": "BonnierNews/tsconfig",
