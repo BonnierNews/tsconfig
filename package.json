@@ -1,6 +1,6 @@
 {
   "name": "@bonniernews/tsconfig",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Shared TypeScript config for Bonnier News",
   "license": "MIT",
   "repository": "BonnierNews/tsconfig",
@@ -9,8 +9,6 @@
     "node": ">=16"
   },
   "scripts": {
-    "postpublish": "npm run publish-internal",
-    "publish-internal": "npm publish --access public --ignore-scripts --@bonniernews:registry='https://npm.pkg.github.com'"
   },
   "files": [
     "tsconfig.json"
